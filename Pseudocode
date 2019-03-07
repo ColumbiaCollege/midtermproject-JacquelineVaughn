@@ -1,0 +1,84 @@
+Part 1:
+Declare images.
+Initialize images.
+Make string of objects for wav files controlled by the scene the player is in.
+Declare variables.
+Basic screen size.
+Initialize wav files.
+Initialize any separate setups.
+Make a button to get the channels to change when clicked.
+Create a way to switch between scenes 1-9 based on when the mouse is clicked.
+Make scene changing buttons visible.
+Change basic visuals like text boxes and backgrounds based on the text option the player chooses.
+Initialize the string of text options and dialogue.
+
+Part 2:
+Declare any variables.
+Create string of objects for text options.
+Make settings for the text on screen.
+Form mouse settings to make the button boundaries and make clicking the button change the text options.
+Initialize strings.
+Declare any other variables.
+Create actual options and dialogue.
+Active buttons by making one change the channel of the tv, one change the scene, and once change the text.
+
+Part 3:
+Declare any variables for the title screen.
+Make the scene background of a grid using squares.
+Change the colors of the outlines and shapes.
+Make text appear on screen.
+
+Part 4:
+Declare any variables for the first scene.
+Make the background of the screen the correct art for the context.
+Add additional images on screen.
+Make text appear on screen.
+
+Part 5:
+Declare any variables for the second scene.
+Make the background of the screen the correct art for the context.
+Add additional shapes to create tv screen.
+Put image on the tv screen.
+Make VHS style line go across screen.
+Part 6:
+Declare any variables for the third scene.
+Define the necessary settings for the scene.
+Make the background of the screen the correct art for the context.
+Create the different channels using movements and images.
+Create the base channel of static with an image.
+Create the first channel of an alien slowly moving down the screen using an image.
+Create the second channel of an illuminati sign flashing across the screen using an image.
+Create the third channel of a question mark flickering on screen using an image.
+Use text to give the player instructions.
+Make VHS style line consistently go across tv screen.
+
+Part 7:
+Declare any variables for the fourth scene.
+Make the background of the screen the correct art for the context.
+Make text appear on screen.
+
+Part 8:
+Declare any variables for the fifth scene.
+Make the background of the screen the correct art for the context.
+Make text appear on screen.
+
+Part 9:
+Declare any variables for the sixth scene.
+Make the background of the screen the correct art for the context.
+Make text appear on screen.
+
+Part 10:
+Declare any variables for the seventh scene.
+Make the background of the screen the correct art for the context.
+Make text appear on screen.
+
+Part 11:
+Declare any variables for the eighth scene.
+Make the background of the screen the correct art for the context.
+Make text appear on screen.
+
+Part 12:
+Declare any variables for the ninth scene.
+Make the background of the screen the correct art for the context.
+Make text appear on screen.
+Active the text options made earlier.
